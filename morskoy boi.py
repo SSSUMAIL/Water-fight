@@ -255,6 +255,7 @@ class Game:
         self.greet()
         self.loop()
             
-            
+print(1237878)
+
 g = Game()
 g.start()
